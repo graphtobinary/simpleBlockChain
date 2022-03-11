@@ -1,0 +1,17 @@
+{
+  "name": "deepcurrency",
+  "version": "1.0.0",
+  "description": "A simple BlockChain for a very basic cryptocurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "blockChain"
+  ],
+  "author": "Prashant Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
